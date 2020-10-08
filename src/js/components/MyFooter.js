@@ -20,8 +20,8 @@ export const MyFooter = () => {
                             </p>
                             <h6>Contacto</h6>
                             <a className="f-weigth-200 f-size-16 my-1 my-footer-link d-inline-block" href="tel:+584122381919">+(58) 412 238 1919</a>
-                            <a className="f-weigth-200 f-size-16 my-1 my-footer-link d-inline-block" href="mailto:atencionalclientetk@tecnikidsve.com">atencionalclientetk@tecnikidsve.com</a>
-                            <a className="f-weigth-200 f-size-16 my-1 my-footer-link" href="/">www.tecnikids.com</a>
+                            <a className="f-weigth-200 f-size-16 my-1 my-footer-link d-inline-block" href="mailto:atencionalclientetk@gmail.com">atencionalclientetk@tecnikidsve.com</a>
+                            <a className="f-weigth-200 f-size-16 my-1 my-footer-link" href="/">www.tecnikidsve.com</a>
                          </div>
                      </div>
                      <div className="col-md-3 col-12">
